@@ -1,0 +1,21 @@
+a {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    img {
+        margin: 25px;
+        border-radius: 100px;
+        width: 40%;
+        height: 50%;
+    }
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
